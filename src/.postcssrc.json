@@ -1,0 +1,8 @@
+
+@'
+{
+  "plugins": {
+    "@tailwindcss/postcss": {}
+  }
+}
+'@ | Set-Content .postcssrc.json
